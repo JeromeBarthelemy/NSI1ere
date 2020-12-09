@@ -13,7 +13,7 @@
 ### Chapitre 00 - Mise en route
 * Cours [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JeromeBarthelemy/NSI1ere/master?filepath=cours_00.ipynb)
 * TD - Les bases de python [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JeromeBarthelemy/NSI1ere/master?filepath=TD_00_1.ipynb)
-* Activité - [Histoire de l'informatique](https://isn-icn-ljm.pagesperso-orange.fr/1-NSI/res/res_histoire.pdf)
+* Activité - [Histoire de l'informatique](https://github.com/JeromeBarthelemy/NSI1ere/blob/master/res_histoire.pdf)
 * TP - Le code ISBN d'un livre [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JeromeBarthelemy/NSI1ere/master?filepath=TP_00.ipynb)
 
 ### Chapitre 1 - Représentation des données : types et valeurs de base
@@ -37,6 +37,18 @@
 3. Les listes [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JeromeBarthelemy/NSI1ere/master?filepath=cours_02_C.ipynb)
   * TD - Les listes [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JeromeBarthelemy/NSI1ere/master?filepath=TD_02_2.ipynb)
   * Corrigé du TD [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JeromeBarthelemy/NSI1ere/master?filepath=TD_02_2_correct.ipynb)
+* Activité - [Tuples et listes](https://github.com/JeromeBarthelemy/NSI1ere/blob/master/res_exos_liste_tuples.pdf)
+* Corrigé de l'activité - [Tuples et listes](https://github.com/JeromeBarthelemy/NSI1ere/blob/master/res_exos_liste_tuples_corrigé.pdf)
+4. Les dictionnaires [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JeromeBarthelemy/NSI1ere/master?filepath=cours_02_D.ipynb)
+  * TP - Le rang d'un page web [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JeromeBarthelemy/NSI1ere/master?filepath=TP_02.ipynb)
+  * Corrigé du TP [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JeromeBarthelemy/NSI1ere/master?filepath=TP_02_correct.ipynb)
+### Chapitre 3 - Traitement de données en tables
+  * Cours [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JeromeBarthelemy/NSI1ere/master?filepath=cours_03.ipynb)
+  * TD - Les établissements scolaires de France [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JeromeBarthelemy/NSI1ere/master?filepath=TD_03.ipynb)
+  * Corrigé du TD [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JeromeBarthelemy/NSI1ere/master?filepath=TD_03_correct.ipynb)
+  * TP - Villes et pays du monde [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JeromeBarthelemy/NSI1ere/master?filepath=TP_03_1.ipynb)
+  * TP - Le Titanic [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JeromeBarthelemy/NSI1ere/master?filepath=TP_03_2.ipynb)
+  * TP - Bulletin Météo [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JeromeBarthelemy/NSI1ere/master?filepath=TP_03_3.ipynb)
 
 
 This work is licensed under a

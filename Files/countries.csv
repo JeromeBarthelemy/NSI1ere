@@ -1,0 +1,253 @@
+countryCode;countryName;area;population;continent;currencyCode;currencyName;capital
+AD;Andorra;468;84000;EU;EUR;Euro;Andorra la Vella
+AE;United Arab Emirates;82880;4975593;AS;AED;Dirham;Abu Dhabi
+AF;Afghanistan;647500;29121286;AS;AFN;Afghani;Kabul
+AG;Antigua and Barbuda;443;86754;NA;XCD;Dollar;St. John's
+AI;Anguilla;102;13254;NA;XCD;Dollar;The Valley
+AL;Albania;28748;2986952;EU;ALL;Lek;Tirana
+AM;Armenia;29800;2968000;AS;AMD;Dram;Yerevan
+AO;Angola;1246700;13068161;AF;AOA;Kwanza;Luanda
+AQ;Antarctica;14000000;0;AN;;;
+AR;Argentina;2766890;41343201;SA;ARS;Peso;Buenos Aires
+AS;American Samoa;199;57881;OC;USD;Dollar;Pago Pago
+AT;Austria;83858;8205000;EU;EUR;Euro;Vienna
+AU;Australia;7686850;21515754;OC;AUD;Dollar;Canberra
+AW;Aruba;193;71566;NA;AWG;Guilder;Oranjestad
+AX;Aland Islands;1580;26711;EU;EUR;Euro;Mariehamn
+AZ;Azerbaijan;86600;8303512;AS;AZN;Manat;Baku
+BA;Bosnia and Herzegovina;51129;4590000;EU;BAM;Marka;Sarajevo
+BB;Barbados;431;285653;NA;BBD;Dollar;Bridgetown
+BD;Bangladesh;144000;156118464;AS;BDT;Taka;Dhaka
+BE;Belgium;30510;10403000;EU;EUR;Euro;Brussels
+BF;Burkina Faso;274200;16241811;AF;XOF;Franc;Ouagadougou
+BG;Bulgaria;110910;7148785;EU;BGN;Lev;Sofia
+BH;Bahrain;665;738004;AS;BHD;Dinar;Manama
+BI;Burundi;27830;9863117;AF;BIF;Franc;Bujumbura
+BJ;Benin;112620;9056010;AF;XOF;Franc;Porto-Novo
+BL;Saint Barthelemy;21;8450;NA;EUR;Euro;Gustavia
+BM;Bermuda;53;65365;NA;BMD;Dollar;Hamilton
+BN;Brunei;5770;395027;AS;BND;Dollar;Bandar Seri Begawan
+BO;Bolivia;1098580;9947418;SA;BOB;Boliviano;Sucre
+BQ;Bonaire, Saint Eustatius and Saba ;328;18012;NA;USD;Dollar;
+BR;Brazil;8511965;201103330;SA;BRL;Real;Brasilia
+BS;Bahamas;13940;301790;NA;BSD;Dollar;Nassau
+BT;Bhutan;47000;699847;AS;BTN;Ngultrum;Thimphu
+BV;Bouvet Island;49;0;AN;NOK;Krone;
+BW;Botswana;600370;2029307;AF;BWP;Pula;Gaborone
+BY;Belarus;207600;9685000;EU;BYN;Belarusian ruble;Minsk
+BZ;Belize;22966;314522;NA;BZD;Dollar;Belmopan
+CA;Canada;9984670;33679000;NA;CAD;Dollar;Ottawa
+CC;Cocos Islands;14;628;AS;AUD;Dollar;West Island
+CD;Democratic Republic of the Congo;2345410;70916439;AF;CDF;Franc;Kinshasa
+CF;Central African Republic;622984;4844927;AF;XAF;Franc;Bangui
+CG;Republic of the Congo;342000;3039126;AF;XAF;Franc;Brazzaville
+CH;Switzerland;41290;8484100;EU;CHF;Franc;Bern
+CI;Ivory Coast;322460;21058798;AF;XOF;Franc;Yamoussoukro
+CK;Cook Islands;240;21388;OC;NZD;Dollar;Avarua
+CL;Chile;756950;16746491;SA;CLP;Peso;Santiago
+CM;Cameroon;475440;19294149;AF;XAF;Franc;Yaounde
+CN;China;9596960;1330044000;AS;CNY;Yuan Renminbi;Beijing
+CO;Colombia;1138910;47790000;SA;COP;Peso;Bogota
+CR;Costa Rica;51100;4516220;NA;CRC;Colon;San Jose
+CU;Cuba;110860;11423000;NA;CUP;Peso;Havana
+CV;Cabo Verde;4033;508659;AF;CVE;Escudo;Praia
+CW;Curacao;444;141766;NA;ANG;Guilder; Willemstad
+CX;Christmas Island;135;1500;OC;AUD;Dollar;Flying Fish Cove
+CY;Cyprus;9250;1102677;EU;EUR;Euro;Nicosia
+CZ;Czechia;78866;10476000;EU;CZK;Koruna;Prague
+DE;Germany;357021;81802257;EU;EUR;Euro;Berlin
+DJ;Djibouti;23000;740528;AF;DJF;Franc;Djibouti
+DK;Denmark;43094;5484000;EU;DKK;Krone;Copenhagen
+DM;Dominica;754;72813;NA;XCD;Dollar;Roseau
+DO;Dominican Republic;48730;9823821;NA;DOP;Peso;Santo Domingo
+DZ;Algeria;2381740;34586184;AF;DZD;Dinar;Algiers
+EC;Ecuador;283560;14790608;SA;USD;Dollar;Quito
+EE;Estonia;45226;1291170;EU;EUR;Euro;Tallinn
+EG;Egypt;1001450;80471869;AF;EGP;Pound;Cairo
+EH;Western Sahara;266000;273008;AF;MAD;Dirham;El-Aaiun
+ER;Eritrea;121320;5792984;AF;ERN;Nakfa;Asmara
+ES;Spain;504782;46505963;EU;EUR;Euro;Madrid
+ET;Ethiopia;1127127;88013491;AF;ETB;Birr;Addis Ababa
+FI;Finland;337030;5244000;EU;EUR;Euro;Helsinki
+FJ;Fiji;18270;875983;OC;FJD;Dollar;Suva
+FK;Falkland Islands;12173;2638;SA;FKP;Pound;Stanley
+FM;Micronesia;702;107708;OC;USD;Dollar;Palikir
+FO;Faroe Islands;1399;48228;EU;DKK;Krone;Torshavn
+FR;France;547030;64768389;EU;EUR;Euro;Paris
+GA;Gabon;267667;1545255;AF;XAF;Franc;Libreville
+GB;United Kingdom;244820;62348447;EU;GBP;Pound;London
+GD;Grenada;344;107818;NA;XCD;Dollar;St. George's
+GE;Georgia;69700;4630000;AS;GEL;Lari;Tbilisi
+GF;French Guiana;91000;195506;SA;EUR;Euro;Cayenne
+GG;Guernsey;78;65228;EU;GBP;Pound;St Peter Port
+GH;Ghana;239460;24339838;AF;GHS;Cedi;Accra
+GI;Gibraltar;6.5;27884;EU;GIP;Pound;Gibraltar
+GL;Greenland;2166086;56375;NA;DKK;Krone;Nuuk
+GM;Gambia;11300;1593256;AF;GMD;Dalasi;Banjul
+GN;Guinea;245857;10324025;AF;GNF;Franc;Conakry
+GP;Guadeloupe;1780;443000;NA;EUR;Euro;Basse-Terre
+GQ;Equatorial Guinea;28051;1014999;AF;XAF;Franc;Malabo
+GR;Greece;131940;11000000;EU;EUR;Euro;Athens
+GS;South Georgia and the South Sandwich Islands;3903;30;AN;GBP;Pound;Grytviken
+GT;Guatemala;108890;13550440;NA;GTQ;Quetzal;Guatemala City
+GU;Guam;549;159358;OC;USD;Dollar;Hagatna
+GW;Guinea-Bissau;36120;1565126;AF;XOF;Franc;Bissau
+GY;Guyana;214970;748486;SA;GYD;Dollar;Georgetown
+HK;Hong Kong;1092;6898686;AS;HKD;Dollar;Hong Kong
+HM;Heard Island and McDonald Islands;412;0;AN;AUD;Dollar;
+HN;Honduras;112090;7989415;NA;HNL;Lempira;Tegucigalpa
+HR;Croatia;56542;4284889;EU;HRK;Kuna;Zagreb
+HT;Haiti;27750;9648924;NA;HTG;Gourde;Port-au-Prince
+HU;Hungary;93030;9982000;EU;HUF;Forint;Budapest
+ID;Indonesia;1919440;242968342;AS;IDR;Rupiah;Jakarta
+IE;Ireland;70280;4622917;EU;EUR;Euro;Dublin
+IL;Israel;20770;7353985;AS;ILS;Shekel;Jerusalem
+IM;Isle of Man;572;75049;EU;GBP;Pound;Douglas
+IN;India;3287590;1173108018;AS;INR;Rupee;New Delhi
+IO;British Indian Ocean Territory;60;4000;AS;USD;Dollar;Diego Garcia
+IQ;Iraq;437072;29671605;AS;IQD;Dinar;Baghdad
+IR;Iran;1648000;76923300;AS;IRR;Rial;Tehran
+IS;Iceland;103000;308910;EU;ISK;Krona;Reykjavik
+IT;Italy;301230;60340328;EU;EUR;Euro;Rome
+JE;Jersey;116;90812;EU;GBP;Pound;Saint Helier
+JM;Jamaica;10991;2847232;NA;JMD;Dollar;Kingston
+JO;Jordan;92300;6407085;AS;JOD;Dinar;Amman
+JP;Japan;377835;127288000;AS;JPY;Yen;Tokyo
+KE;Kenya;582650;40046566;AF;KES;Shilling;Nairobi
+KG;Kyrgyzstan;198500;5776500;AS;KGS;Som;Bishkek
+KH;Cambodia;181040;14453680;AS;KHR;Riels;Phnom Penh
+KI;Kiribati;811;92533;OC;AUD;Dollar;Tarawa
+KM;Comoros;2170;773407;AF;KMF;Franc;Moroni
+KN;Saint Kitts and Nevis;261;51134;NA;XCD;Dollar;Basseterre
+KP;North Korea;120540;22912177;AS;KPW;Won;Pyongyang
+KR;South Korea;98480;48422644;AS;KRW;Won;Seoul
+XK;Kosovo;10908;1800000;EU;EUR;Euro;Pristina
+KW;Kuwait;17820;2789132;AS;KWD;Dinar;Kuwait City
+KY;Cayman Islands;262;44270;NA;KYD;Dollar;George Town
+KZ;Kazakhstan;2717300;15340000;AS;KZT;Tenge;Nur-Sultan
+LA;Laos;236800;6368162;AS;LAK;Kip;Vientiane
+LB;Lebanon;10400;4125247;AS;LBP;Pound;Beirut
+LC;Saint Lucia;616;160922;NA;XCD;Dollar;Castries
+LI;Liechtenstein;160;35000;EU;CHF;Franc;Vaduz
+LK;Sri Lanka;65610;21513990;AS;LKR;Rupee;Colombo
+LR;Liberia;111370;3685076;AF;LRD;Dollar;Monrovia
+LS;Lesotho;30355;1919552;AF;LSL;Loti;Maseru
+LT;Lithuania;65200;2944459;EU;EUR;Euro;Vilnius
+LU;Luxembourg;2586;497538;EU;EUR;Euro;Luxembourg
+LV;Latvia;64589;2217969;EU;EUR;Euro;Riga
+LY;Libya;1759540;6461454;AF;LYD;Dinar;Tripoli
+MA;Morocco;446550;33848242;AF;MAD;Dirham;Rabat
+MC;Monaco;1.95;32965;EU;EUR;Euro;Monaco
+MD;Moldova;33843;4324000;EU;MDL;Leu;Chisinau
+ME;Montenegro;14026;666730;EU;EUR;Euro;Podgorica
+MF;Saint Martin;53;35925;NA;EUR;Euro;Marigot
+MG;Madagascar;587040;21281844;AF;MGA;Ariary;Antananarivo
+MH;Marshall Islands;181.3;65859;OC;USD;Dollar;Majuro
+MK;North Macedonia;25333;2062294;EU;MKD;Denar;Skopje
+ML;Mali;1240000;13796354;AF;XOF;Franc;Bamako
+MM;Myanmar;678500;53414374;AS;MMK;Kyat;Nay Pyi Taw
+MN;Mongolia;1565000;3086918;AS;MNT;Tugrik;Ulaanbaatar
+MO;Macao;254;449198;AS;MOP;Pataca;Macao
+MP;Northern Mariana Islands;477;53883;OC;USD;Dollar;Saipan
+MQ;Martinique;1100;432900;NA;EUR;Euro;Fort-de-France
+MR;Mauritania;1030700;3205060;AF;MRU;Ouguiya;Nouakchott
+MS;Montserrat;102;9341;NA;XCD;Dollar;Plymouth
+MT;Malta;316;403000;EU;EUR;Euro;Valletta
+MU;Mauritius;2040;1294104;AF;MUR;Rupee;Port Louis
+MV;Maldives;300;395650;AS;MVR;Rufiyaa;Male
+MW;Malawi;118480;15447500;AF;MWK;Kwacha;Lilongwe
+MX;Mexico;1972550;112468855;NA;MXN;Peso;Mexico City
+MY;Malaysia;329750;28274729;AS;MYR;Ringgit;Kuala Lumpur
+MZ;Mozambique;801590;22061451;AF;MZN;Metical;Maputo
+NA;Namibia;825418;2128471;AF;NAD;Dollar;Windhoek
+NC;New Caledonia;19060;216494;OC;XPF;Franc;Noumea
+NE;Niger;1267000;15878271;AF;XOF;Franc;Niamey
+NF;Norfolk Island;34.6;1828;OC;AUD;Dollar;Kingston
+NG;Nigeria;923768;154000000;AF;NGN;Naira;Abuja
+NI;Nicaragua;129494;5995928;NA;NIO;Cordoba;Managua
+NL;Netherlands;41526;16645000;EU;EUR;Euro;Amsterdam
+NO;Norway;324220;5009150;EU;NOK;Krone;Oslo
+NP;Nepal;140800;28951852;AS;NPR;Rupee;Kathmandu
+NR;Nauru;21;10065;OC;AUD;Dollar;Yaren
+NU;Niue;260;2166;OC;NZD;Dollar;Alofi
+NZ;New Zealand;268680;4252277;OC;NZD;Dollar;Wellington
+OM;Oman;212460;2967717;AS;OMR;Rial;Muscat
+PA;Panama;78200;3410676;NA;PAB;Balboa;Panama City
+PE;Peru;1285220;29907003;SA;PEN;Sol;Lima
+PF;French Polynesia;4167;270485;OC;XPF;Franc;Papeete
+PG;Papua New Guinea;462840;6064515;OC;PGK;Kina;Port Moresby
+PH;Philippines;300000;99900177;AS;PHP;Peso;Manila
+PK;Pakistan;803940;184404791;AS;PKR;Rupee;Islamabad
+PL;Poland;312685;38500000;EU;PLN;Zloty;Warsaw
+PM;Saint Pierre and Miquelon;242;7012;NA;EUR;Euro;Saint-Pierre
+PN;Pitcairn;47;46;OC;NZD;Dollar;Adamstown
+PR;Puerto Rico;9104;3916632;NA;USD;Dollar;San Juan
+PS;Palestinian Territory;5970;3800000;AS;ILS;Shekel;East Jerusalem
+PT;Portugal;92391;10676000;EU;EUR;Euro;Lisbon
+PW;Palau;458;19907;OC;USD;Dollar;Melekeok
+PY;Paraguay;406750;6375830;SA;PYG;Guarani;Asuncion
+QA;Qatar;11437;840926;AS;QAR;Rial;Doha
+RE;Reunion;2517;776948;AF;EUR;Euro;Saint-Denis
+RO;Romania;237500;21959278;EU;RON;Leu;Bucharest
+RS;Serbia;88361;7344847;EU;RSD;Dinar;Belgrade
+RU;Russia;17100000;140702000;EU;RUB;Ruble;Moscow
+RW;Rwanda;26338;11055976;AF;RWF;Franc;Kigali
+SA;Saudi Arabia;1960582;25731776;AS;SAR;Rial;Riyadh
+SB;Solomon Islands;28450;559198;OC;SBD;Dollar;Honiara
+SC;Seychelles;455;88340;AF;SCR;Rupee;Victoria
+SD;Sudan;1861484;35000000;AF;SDG;Pound;Khartoum
+SS;South Sudan;644329;8260490;AF;SSP;Pound;Juba
+SE;Sweden;449964;9828655;EU;SEK;Krona;Stockholm
+SG;Singapore;692.7;4701069;AS;SGD;Dollar;Singapore
+SH;Saint Helena;410;7460;AF;SHP;Pound;Jamestown
+SI;Slovenia;20273;2007000;EU;EUR;Euro;Ljubljana
+SJ;Svalbard and Jan Mayen;62049;2550;EU;NOK;Krone;Longyearbyen
+SK;Slovakia;48845;5455000;EU;EUR;Euro;Bratislava
+SL;Sierra Leone;71740;5245695;AF;SLL;Leone;Freetown
+SM;San Marino;61.2;31477;EU;EUR;Euro;San Marino
+SN;Senegal;196190;12323252;AF;XOF;Franc;Dakar
+SO;Somalia;637657;10112453;AF;SOS;Shilling;Mogadishu
+SR;Suriname;163270;492829;SA;SRD;Dollar;Paramaribo
+ST;Sao Tome and Principe;1001;197700;AF;STD;Dobra;Sao Tome
+SV;El Salvador;21040;6052064;NA;USD;Dollar;San Salvador
+SX;Sint Maarten;21;37429;NA;ANG;Guilder;Philipsburg
+SY;Syria;185180;22198110;AS;SYP;Pound;Damascus
+SZ;Eswatini;17363;1354051;AF;SZL;Lilangeni;Mbabane
+TC;Turks and Caicos Islands;430;20556;NA;USD;Dollar;Cockburn Town
+TD;Chad;1284000;10543464;AF;XAF;Franc;N'Djamena
+TF;French Southern Territories;7829;140;AN;EUR;Euro;Port-aux-Francais
+TG;Togo;56785;6587239;AF;XOF;Franc;Lome
+TH;Thailand;514000;67089500;AS;THB;Baht;Bangkok
+TJ;Tajikistan;143100;7487489;AS;TJS;Somoni;Dushanbe
+TK;Tokelau;10;1466;OC;NZD;Dollar;
+TL;Timor Leste;15007;1154625;OC;USD;Dollar;Dili
+TM;Turkmenistan;488100;4940916;AS;TMT;Manat;Ashgabat
+TN;Tunisia;163610;10589025;AF;TND;Dinar;Tunis
+TO;Tonga;748;122580;OC;TOP;Pa'anga;Nuku'alofa
+TR;Turkey;780580;77804122;AS;TRY;Lira;Ankara
+TT;Trinidad and Tobago;5128;1328019;NA;TTD;Dollar;Port of Spain
+TV;Tuvalu;26;10472;OC;AUD;Dollar;Funafuti
+TW;Taiwan;35980;22894384;AS;TWD;Dollar;Taipei
+TZ;Tanzania;945087;41892895;AF;TZS;Shilling;Dodoma
+UA;Ukraine;603700;45415596;EU;UAH;Hryvnia;Kyiv
+UG;Uganda;236040;33398682;AF;UGX;Shilling;Kampala
+UM;United States Minor Outlying Islands;0;0;OC;USD;Dollar;
+US;United States;9629091;310232863;NA;USD;Dollar;Washington
+UY;Uruguay;176220;3477000;SA;UYU;Peso;Montevideo
+UZ;Uzbekistan;447400;27865738;AS;UZS;Som;Tashkent
+VA;Vatican;0.44;921;EU;EUR;Euro;Vatican City
+VC;Saint Vincent and the Grenadines;389;104217;NA;XCD;Dollar;Kingstown
+VE;Venezuela;912050;27223228;SA;VES;Bolivar Soberano;Caracas
+VG;British Virgin Islands;153;21730;NA;USD;Dollar;Road Town
+VI;U.S. Virgin Islands;352;108708;NA;USD;Dollar;Charlotte Amalie
+VN;Vietnam;329560;89571130;AS;VND;Dong;Hanoi
+VU;Vanuatu;12200;221552;OC;VUV;Vatu;Port Vila
+WF;Wallis and Futuna;274;16025;OC;XPF;Franc;Mata Utu
+WS;Samoa;2944;192001;OC;WST;Tala;Apia
+YE;Yemen;527970;23495361;AS;YER;Rial;Sanaa
+YT;Mayotte;374;159042;AF;EUR;Euro;Mamoudzou
+ZA;South Africa;1219912;49000000;AF;ZAR;Rand;Pretoria
+ZM;Zambia;752614;13460305;AF;ZMW;Kwacha;Lusaka
+ZW;Zimbabwe;390580;13061000;AF;ZWL;Dollar;Harare
+CS;Serbia and Montenegro;102350;10829175;EU;RSD;Dinar;Belgrade
+AN;Netherlands Antilles;960;300000;NA;ANG;Guilder;Willemstad

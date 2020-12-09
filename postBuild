@@ -41,7 +41,17 @@ jupyter trust TP_codage_des_caracteres_2.ipynb
 jupyter trust cours_02_intro.ipynb
 jupyter trust cours_02_B.ipynb
 jupyter trust cours_02_C.ipynb
+jupyter trust cours_02_D.ipynb
 jupyter trust TD_02_1.ipynb
 jupyter trust TD_02_1_correct.ipynb
 jupyter trust TD_02_2.ipynb
-#jupyter trust TD_02_2_correct.ipynb
+jupyter trust TD_02_2_correct.ipynb
+jupyter trust TP_02.ipynb
+jupyter trust TP_02_correct.ipynb
+jupyter trust cours_03.ipynb
+jupyter trust TD_03.ipynb
+jupyter trust TP_03_1.ipynb
+jupyter trust TP_03_2.ipynb
+jupyter trust TP_03_3.ipynb
+jupyter trust TD_03_correct.ipynb
+
