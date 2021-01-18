@@ -2,7 +2,7 @@ countryCode;countryName;area;population;continent;currencyCode;currencyName;capi
 AD;Andorra;468;84000;EU;EUR;Euro;Andorra la Vella
 AE;United Arab Emirates;82880;4975593;AS;AED;Dirham;Abu Dhabi
 AF;Afghanistan;647500;29121286;AS;AFN;Afghani;Kabul
-AG;Antigua and Barbuda;443;86754;NA;XCD;Dollar;St. John's
+AG;Antigua and Barbuda;443;86754;NA;XCD;Dollar;Saint John's
 AI;Anguilla;102;13254;NA;XCD;Dollar;The Valley
 AL;Albania;28748;2986952;EU;ALL;Lek;Tirana
 AM;Armenia;29800;2968000;AS;AMD;Dram;Yerevan
@@ -231,8 +231,8 @@ TW;Taiwan;35980;22894384;AS;TWD;Dollar;Taipei
 TZ;Tanzania;945087;41892895;AF;TZS;Shilling;Dodoma
 UA;Ukraine;603700;45415596;EU;UAH;Hryvnia;Kyiv
 UG;Uganda;236040;33398682;AF;UGX;Shilling;Kampala
-UM;United States Minor Outlying Islands;0;0;OC;USD;Dollar;
-US;United States;9629091;310232863;NA;USD;Dollar;Washington
+UM;United States Minor Outlying Islands;34;300;OC;USD;Dollar;
+US;United States;9629091;310232863;NA;USD;Dollar;Washington, D.C.
 UY;Uruguay;176220;3477000;SA;UYU;Peso;Montevideo
 UZ;Uzbekistan;447400;27865738;AS;UZS;Som;Tashkent
 VA;Vatican;0.44;921;EU;EUR;Euro;Vatican City

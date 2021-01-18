@@ -15,3 +15,5 @@ rise
 jupyter-docx-bundler
 chardet
 ipyturtle
+folium
+unidecode

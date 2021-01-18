@@ -47,8 +47,14 @@
   * TD - Les établissements scolaires de France [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JeromeBarthelemy/NSI1ere/master?filepath=TD_03.ipynb)
   * Corrigé du TD [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JeromeBarthelemy/NSI1ere/master?filepath=TD_03_correct.ipynb)
   * TP - Villes et pays du monde [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JeromeBarthelemy/NSI1ere/master?filepath=TP_03_1.ipynb)
+  * Corrigé du TP [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JeromeBarthelemy/NSI1ere/master?filepath=TP_03_1_correct.ipynb)
   * TP - Le Titanic [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JeromeBarthelemy/NSI1ere/master?filepath=TP_03_2.ipynb)
+  * Corrigé du TP [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JeromeBarthelemy/NSI1ere/master?filepath=TP_03_2_correct.ipynb)
   * TP - Bulletin Météo [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JeromeBarthelemy/NSI1ere/master?filepath=TP_03_3.ipynb)
+  * Corrigé du TP [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JeromeBarthelemy/NSI1ere/master?filepath=TP_03_3_correct.ipynb)
+### Chapitre 4 - Algorithmique
+  1. Principes d'algorithmique [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JeromeBarthelemy/NSI1ere/master?filepath=cours_04_intro.ipynb)
+  * Exercices - [Complexite](https://github.com/JeromeBarthelemy/NSI1ere/blob/master/Exercices_complexite.pdf)
 
 
 This work is licensed under a
