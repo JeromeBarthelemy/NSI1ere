@@ -11,7 +11,7 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JeromeBarthelemy/NSI1ere/master?urlpath=apps/environnement.ipynb)
 
 ### Chapitre 00 - Mise en route
-* Cours [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JeromeBarthelemy/NSI1ere/master?filepath=cours_00.ipynb)
+* Cours [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JeromeBarthelemy/NSI1ere/master?urlpath=tree/cours_00.ipynb)
 * TD - Les bases de python [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JeromeBarthelemy/NSI1ere/master?filepath=TD_00_1.ipynb)
 * Activité - [Histoire de l'informatique](https://github.com/JeromeBarthelemy/NSI1ere/blob/master/res_histoire.pdf)
 * TP - Le code ISBN d'un livre [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JeromeBarthelemy/NSI1ere/master?filepath=TP_00.ipynb)
