@@ -23,8 +23,7 @@
 3. Les nombres entiers relatifs [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JeromeBarthelemy/NSI1ere/master?urlpath=tree/cours_01_C.ipynb)
 4. Les nombres réels [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JeromeBarthelemy/NSI1ere/master?urlpath=tree/cours_01_D.ipynb)
 5. Les caractères [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JeromeBarthelemy/NSI1ere/master?urlpath=tree/cours_01_E.ipynb)
-* TP1 - Codage des caractères - Partie 1 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JeromeBarthelemy/NSI1ere/master?urlpath=tree/TP_codage_des_caracteres_1.ipynb)
-* TP2 - Codage des caractères - Partie 2 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JeromeBarthelemy/NSI1ere/master?urlpath=tree/TP_codage_des_caracteres_2.ipynb)
+* TP - Codage des caractères [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JeromeBarthelemy/NSI1ere/master?urlpath=tree/TP_codage_des_caracteres.ipynb)
 6. Les booléens [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JeromeBarthelemy/NSI1ere/master?urlpath=tree/cours_01_F.ipynb)
   * TD - Les booléens [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JeromeBarthelemy/NSI1ere/master?urlpath=tree/TD_01_2.ipynb)
 ### Chapitre 2 - Représentation des données : types construits
