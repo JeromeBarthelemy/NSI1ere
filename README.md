@@ -41,9 +41,9 @@
 ### Chapitre 3 - Traitement de données en tables
   * Cours [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JeromeBarthelemy/NSI1ere/master?urlpath=tree/cours_03.ipynb)
   * TD - Les établissements scolaires de France [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JeromeBarthelemy/NSI1ere/master?urlpath=tree/TD_03.ipynb)
-  * TP - Villes et pays du monde [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JeromeBarthelemy/NSI1ere/master?urlpath=tree/TP_03_1.ipynb)
   * TP - Le Titanic [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JeromeBarthelemy/NSI1ere/master?urlpath=tree/TP_03_2.ipynb)
   * TP - Bulletin Météo [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JeromeBarthelemy/NSI1ere/master?urlpath=tree/TP_03_3.ipynb)
+  * TP - Villes et pays du monde [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JeromeBarthelemy/NSI1ere/master?urlpath=tree/TP_03_1.ipynb)
 ### Chapitre 4 - Algorithmique
   1. Principes d'algorithmique [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JeromeBarthelemy/NSI1ere/master?urlpath=tree/cours_04_intro.ipynb)
   * Exercices - [Complexite](https://github.com/JeromeBarthelemy/NSI1ere/blob/master/Exercices_complexite.pdf)
