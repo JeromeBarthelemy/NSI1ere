@@ -49,7 +49,7 @@
   * Exercices - [Complexite](https://github.com/JeromeBarthelemy/NSI1ere/blob/master/Exercices_complexite.pdf)
   2. Algorithmes de base sur les tableaux [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JeromeBarthelemy/NSI1ere/master?urlpath=tree/cours_04_B.ipynb)
   3. Algorithmes de tri [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JeromeBarthelemy/NSI1ere/master?urlpath=tree/cours_04_C.ipynb)
-  * TD - Les tris par sélection et par insertion [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JeromeBarthelemy/NSI1ere/master?urlpath=tree/TD_04_1_2022.ipynb)
+  * TD - Les tris par sélection et par insertion [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JeromeBarthelemy/NSI1ere/master?urlpath=tree/TD_04_1.ipynb)
   4. Algorithmes d'optimisation [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JeromeBarthelemy/NSI1ere/master?urlpath=tree/cours_04_D.ipynb)
   * TP - Les algorithmes gloutons [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JeromeBarthelemy/NSI1ere/master?urlpath=tree/TP_04_1.ipynb)
   5. Un algorithme de machine learning [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JeromeBarthelemy/NSI1ere/master?urlpath=tree/cours_04_E.ipynb)
