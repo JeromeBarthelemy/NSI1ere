@@ -16,7 +16,7 @@
 ### Chapitre 00 - Mise en route
 * Cours [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JeromeBarthelemy/NSI1ere/master?urlpath=tree/cours_00.ipynb)
 * TD - Les bases de python [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JeromeBarthelemy/NSI1ere/master?urlpath=tree/TD_00_1.ipynb)
-* Activité - [Histoire de l'informatique](https://github.com/JeromeBarthelemy/NSI1ere/blob/master/Activité historique.pdf)
+* Activité - [Histoire de l'informatique](https://github.com/JeromeBarthelemy/NSI1ere/blob/master/Activité_historique.pdf)
 * TP - Le code ISBN d'un livre [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JeromeBarthelemy/NSI1ere/master?urlpath=tree/TP_00.ipynb)
 
 ### Chapitre 1 - Représentation des données : types et valeurs de base
