@@ -37,7 +37,7 @@
   * TD - Les listes [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JeromeBarthelemy/NSI1ere/master?urlpath=tree/TD_02_2.ipynb)
 * Activité - [Tuples et listes](https://github.com/JeromeBarthelemy/NSI1ere/blob/master/res_exos_liste_tuples.pdf)
 4. Les dictionnaires [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JeromeBarthelemy/NSI1ere/master?urlpath=tree/cours_02_D.ipynb)
-  * TP - Le rang d'un page web [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JeromeBarthelemy/NSI1ere/master?urlpath=tree/TP_02.ipynb)
+  * TP - Le rang d'une page web [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JeromeBarthelemy/NSI1ere/master?urlpath=tree/TP_02.ipynb)
 ### Chapitre 3 - Traitement de données en tables
   * Cours [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JeromeBarthelemy/NSI1ere/master?urlpath=tree/cours_03.ipynb)
   * TD - Les établissements scolaires de France [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JeromeBarthelemy/NSI1ere/master?urlpath=tree/TD_03.ipynb)
