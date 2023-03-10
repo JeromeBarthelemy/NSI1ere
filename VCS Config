@@ -8,3 +8,7 @@ Pour utiliser VisualStudioCode au lycée avec un projet Pyxel :
 - Pour installer la bibliothèque Pyxel copier-coller l'instruction suivante dans la console :
  & 'C:\Program Files\python\python.exe' -m pip install pyxel
 - Relancer votre programme Python (Ctrl+F5) et ça devrait fonctionner.
+Pour accéder à l'éditeur d'images, copier-coller la ligne suivante dans la console :
+ & 'C:\Program Files\python\python.exe' -m pyxel edit "res.pyxres"
+ (en supposant que votre banque d'images s'appelle res.pyxres bien sûr)
+
