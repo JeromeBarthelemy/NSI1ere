@@ -1,10 +1,13 @@
 Pour utiliser VisualStudioCode au lycée avec un projet Pyxel :
 - Télécharger vos fichiers .py et .pyxres depuis pyxelstudio.net.
-- Lancer VSC (répertoire SNT sur le bureau).
-- Faire "File > Open directory" pour ouvrir le répertoire où vous avez téléchargé vos fichier PyxelStudio.
-- Ouvrir le fichier .py et cliquer sur le bouton en bas à droite pour installer l'extension Python dans VSC.
-- Une fois l'installation terminée, lancer le code Python avec Ctrl+F5 ou le bouton triangulaire vert en haut à droite.
-- Dans la console, vous devriez avoir un message d'erreur indiquant que la bibliothèque Pyxel n'est pas installée (un truc comme can't find module pyxel).
+- Lancer VisualStudioCode (répertoire SNT sur le bureau ou taper "vsc" après avoir cliqué sur le bouton Windows).
+- Faire "File > Open Folder" pour ouvrir le répertoire où vous avez téléchargé vos fichier PyxelStudio.
+- Dans VSCode, double-cliquer sur le nom du fichier ".py" que vous soulez utiliser.
+- Cliquer sur le bouton en bas à droite de VSC qui propose d'installer l'extension Python.
+- Une fois l'installation terminée, cliquer sur "Select Python Interpreter" puis sur "Enter interpreter path" puis sur "Find ...".
+- Dans la fenêtre de l'explorateur qui s'ouvre, aller chercher le fichier suivant "C:\Program Files\python\python.exe" et double-cliquer dessus.
+- Lancer le code Python avec Ctrl+F5 ou le bouton triangulaire vert en haut à droite.
+- Dans la console, vous devriez avoir un message d'erreur indiquant que la bibliothèque Pyxel n'est pas installée (un truc comme "no module named pyxel").
 - Pour installer la bibliothèque Pyxel copier-coller l'instruction suivante dans la console :
  & 'C:\Program Files\python\python.exe' -m pip install pyxel
 - Relancer votre programme Python (Ctrl+F5) et ça devrait fonctionner.
